@@ -12,6 +12,9 @@ let AppService = class AppService {
     getHello() {
         return 'Hello, World!';
     }
+    sayArara() {
+        return 'ARARAAAA';
+    }
 };
 AppService = __decorate([
     (0, common_1.Injectable)()
